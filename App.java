@@ -4,7 +4,7 @@ public class App {
 
         int x=2;
         int y=3;
-         System.out.println(x+": two");
-         System.out.println(y+": three");
+         System.out.println(x+" two");
+         System.out.println(y+" three");
     }
 }
